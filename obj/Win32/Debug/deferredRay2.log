@@ -1,0 +1,10 @@
+﻿  ofApp.cpp
+c:\users\evvvvil\desktop\of_v0.10.1_vs2017_release\addons\ofxdeferredshading\src\blur.h(102): warning C4018: '<': signed/unsigned mismatch
+  deferredRay2.vcxproj -> C:\Users\evvvvil\Desktop\of_v0.10.1_vs2017_release\apps\myApps\deferredRay2\bin\deferredRay2_debug.exe
+  
+  	                   2	C:\Users\evvvvil\Desktop\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\evvvvil\Desktop\of_v0.10.1_vs2017_release\apps\myApps\deferredRay2\bin\FreeImage.dll
+  
+  	                   1	C:\Users\evvvvil\Desktop\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\evvvvil\Desktop\of_v0.10.1_vs2017_release\apps\myApps\deferredRay2\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\evvvvil\Desktop\of_v0.10.1_vs2017_release\apps\myApps\deferredRay2\bin\fmodexL.dll
